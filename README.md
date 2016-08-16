@@ -13,3 +13,8 @@ APIs Extras utilizadas:
     limit=5         -> limite de resultados
     namespace=0     -> retorna somente artigos
     format=json     -> formato de retorno
+    
+- Search box animado CSS3/Javascript
+    http://icanbecreative.com/article/css3-animated-search-box
+    
+    
