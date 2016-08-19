@@ -12,6 +12,10 @@ body {
     background-repeat: no-repeat;
 }
 
+.hide {
+    /*display: none;*/
+}
+
 .search-wrapper {
     position: absolute;
     -webkit-transform: translate(-50%, -50%);
@@ -22,6 +26,10 @@ body {
 }
 
 .search-wrapper.active {
+}
+
+.top {
+    top: 10%;
 }
 
 .search-wrapper .input-holder {
