@@ -1,8 +1,6 @@
-Tarefa executada a partir do Free Code Camp, pelo endereço:
-https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer
+Wikipedia rondomizer and browser
 
-Exemplo:
-https://codepen.io/FreeCodeCamp/full/wGqEga/
+DEMO: https://codepen.io/maiquelcraash/full/JKQoxN/
 
 APIs Extras utilizadas:
 - API do Wikipedia : https://www.mediawiki.org/wiki/API:Main_page
@@ -14,7 +12,7 @@ APIs Extras utilizadas:
     namespace=0     -> retorna somente artigos
     format=json     -> formato de retorno
     
-- Search box animado CSS3/Javascript
+- Animated CSS3/Javascript
     http://icanbecreative.com/article/css3-animated-search-box
     
     
